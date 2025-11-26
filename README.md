@@ -1,16 +1,8 @@
 # mis_labs_2_2025
 
-A new Flutter project.
+## Food app
+<img width="428" height="892" alt="image" src="https://github.com/user-attachments/assets/bfa5a4af-0ab5-4a59-9d74-b5343176b8a0" />
 
-## Getting Started
+<img width="440" height="887" alt="image" src="https://github.com/user-attachments/assets/4145cd58-fcf5-482f-b28d-8a1f8fefd9da" />
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="426" height="884" alt="image" src="https://github.com/user-attachments/assets/306190b9-741b-4585-b07c-05d09aab55e7" />
